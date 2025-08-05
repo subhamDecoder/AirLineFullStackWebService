@@ -1,1 +1,1 @@
-web: java -jar target/*.jar
+web: java -jar target/Airline_Management_Application.jar
